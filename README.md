@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br>
-My name is Yasmin Rojas and I'm a back-end developer student and a data science enthusiast.
+My name is Yasmin Rojas and I'm a full stack developer student and a data science enthusiast.
 I look forward to participate in building useful, sustainable and innovative projects.
 I am currently learning C# and have interest in learning Phyton soon.
 
