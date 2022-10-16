@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br>
-My name is Yasmin and I'm a full stack developer student and a data science enthusiast.
+My name is Yasmin and I'm a software developer intern and a data science enthusiast.
 I look forward to participate in building useful, sustainable and innovative projects.
 
 
