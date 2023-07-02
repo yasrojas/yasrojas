@@ -1,22 +1,10 @@
-### Hi there 👋
-<br>
-My name is Yasmin and I'm a software developer intern and a data science enthusiast.
-I look forward to participate in building useful, sustainable and innovative projects.
 
+<h3> ⚡ About me</h3>
+My name is Yasmin Rojas and I'm a junior software developer with .NET as my principal stack of work. 
 
+<h3> 📊 GitHub Profile Stats </h3>
 
-
-<!--
-**yasrojas/yasrojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a align="center" href="https://github.com/yasrojas">
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=yasrojas&count_private=true&show_icons=true&theme=dark&rank_icon=github" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasrojas&layout=compact&theme=dark" />
+</a>
